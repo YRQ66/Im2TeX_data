@@ -5909,8 +5909,8 @@ AM\perp (SBC)
 \left[\overrightarrow{u},\overrightarrow{v} \right]=0
 k=-16
 y=\dfrac{3-4x}{-2x+1}
-+b-c+d<0\
-8+4b+2c+d>0
+1+b-c+d<0
+-8+4b+2c+d>0.
 MB'
 216\sqrt{2}\pi
 f\left(1\right) = 1
@@ -11845,9 +11845,9 @@ y=\dfrac{1}{2016x+2017}
 \dfrac{BN}{BB'} = \dfrac{CP}{CC'} = \dfrac{2}{3}
 y=\dfrac{x^4}{4}-1
 11,01
-=2t\
-=1-t\
-=2+
+x=2t
+y=1-t
+x=2+t
 a=-5
 |z_1+z_2|\le|z_1|-|z_2|
 I=\dfrac{\pi+1}{2}
@@ -12885,7 +12885,7 @@ A(1;2;-3), B(2;1;1).
 y=-6x-12.
 3x-2z+1=0
 \begin{cases} x=-2+2t \\ y=-3t \\ z=1+t \\\end{cases}, t \in \mathbb{R}
-là một hàm đồng biến trên khoảng
+lmthmngbintrnkhong
 f'(x)=-x^2-2
 \left(-1; 1 \right)
 I=2{,}5
@@ -14547,8 +14547,8 @@ S=\displaystyle\int\limits_a^b |f(x)+g(x)| \mathrm{\,d}x
 m=\dfrac{2^{2017}+1}{2^{2018}}
 \dfrac{x+1}{1}=\dfrac{y-1}{4}=\dfrac{z+4}{-2}
 M(-1;4;-4)
-+\dfrac{1}{3\sqrt{2}+2\sqrt{3}
-+\ldot
++\dfrac{1}{3\sqrt{2}+2\sqrt{3}}
++\ldots
 +\dfrac{1}{(n+1)\sqrt{n}+n\sqrt{n+1}}
 (x+1)e^x+C
 BD\perp AE
@@ -18907,7 +18907,7 @@ y = \dfrac{2x - 3}{-x + 2}
 S=\dfrac{9}{4}
 (P)\colon4x-2y-3z-15=0
 m+2n=1
-= 1 + t\\ y =  - 1 + 2t \\  z =
+x = 1 + t \\ y = - 1 + 2 t \\ z = t
 \displaystyle\int f\left(x\right)\, \mathrm{d} x = \dfrac{2}{3}x^{\tfrac{3}{2}}\left(3\ln x - 2\right) + C
 a-b=26
 y = \cos 3x
@@ -26060,8 +26060,8 @@ AB=\sqrt{3}
 y=x^4 - 2x^2 +m
 V=\dfrac{\pi \sqrt{3}a^3}{2}
 \dfrac{1}{a+1}
-=-8+4t\
-=5-2t\
+x=-8+4t\
+y=5-2t
 y=x^3-3\left( {2m+1} \right)x^2+\left( {12m+5} \right)x-2
 m\in [0;10]
 \left[{-1;3}\right]
@@ -40633,8 +40633,7 @@ S.BHD
 f(x)=\dfrac{x^2-1}{x^2}?
 x^3 - 3x^2 + 3 + m = 0
 B(1; 0; 0),
-d':\left\{\begin{aligned} x &= 1 + t\\y &= 2 - t\\z &= 3 - 3t\end{aligned}\right.
-120
+d': \left\{\begin{aligned} x &= 1 + t \\ y &= 2 - t \\ z &= 3 - 3t \end{aligned} \right.120
 -511
 \displaystyle\int\limits f\left(x\right)\cos x\mathrm{\,d}x=-\left(2x+2\right)\sin x+2\cos x+C
 [-2;4]
@@ -51753,9 +51752,9 @@ q=2
 B(3; -2; 2)
 x=a,x=b(a<b)
 x=a-1
-= 1 + t\
-= 0\
-=  -
+x = 1 + t
+y = 0
+z = -t
 S=27^{x_1} + 27^{x_2}
 y=\dfrac{7}{4}
 f(x)\le m
@@ -65064,9 +65063,9 @@ m \in \left\{ {4;6 } \right\}
 f(a)+f(b)=f\left(\dfrac{a+b}{1+ab}\right)
 a=12\left(3-\sqrt{3}\right)
 AB=BC=1, AD=2
-|z+2w|=8\sqrt{5}\
-|2z+3w|=13\sqrt{5}\
-|z+4w|=14\sqrt{5
+|z+2w|=8\sqrt{5}
+|2z+3w|=13\sqrt{5}
+|z+4w|=14\sqrt{5}
 y=x+2
 P(-5;-4;6)
 \min y=0
@@ -79196,7 +79195,7 @@ A(1;1;0)
 y_{CD}
 y'=\dfrac{2017^x}{2017}
 a>c>1>b
-Ta có
+Tac
 \dfrac{5 \pi \sqrt{3}}{6}
 -3\le m\le3
 0 < g(x) < f(x), \forall x \in \left[ a; b \right]
@@ -83496,7 +83495,7 @@ S = \mathrm{C}_{30}^0+2^2\mathrm{C}_{30}^2+...+2^{28}\mathrm{C}_{30}^{28}+2^{30}
 x+y-3=0
 M(6;0;0)
 y=\log_{0,5}x
-,hàm số
+,hms
 \overrightarrow{n}=\left(2; 3; 5\right)
 V_{\max}=40
 m<6
@@ -88774,7 +88773,7 @@ I = \displaystyle\int\limits_{0}^{2}\left(2x^2 - x - m\right)\, \mathrm{d}x
 (1{,}5)^x=\left(\dfrac{2}{3}\right)^{x-2}
 AC=a
 P=51
-, tức là:
+, tcl:
 \dfrac{1}{r^2}=\dfrac{1}{h^2}+\dfrac{1}{l^2}
 z=(1+2i)(1-i)
 f\left( x \right)=x^2+\dfrac{1}{x}+3x-2
@@ -90174,7 +90173,7 @@ M=2\sqrt{3}
 y = \log_{5}x
 4000 < x < 6000
 f\left(\dfrac{1}{2}\right)=2
-(SAB) và (SBC)
+(SAB) \mbox{và} (SBC)
 a,b,c\in[-2;1]
 AB_{\max} = 2R\sqrt{2}
 S = \left( - \infty, 0\right)
