@@ -26060,7 +26060,7 @@ AB=\sqrt{3}
 y=x^4 - 2x^2 +m
 V=\dfrac{\pi \sqrt{3}a^3}{2}
 \dfrac{1}{a+1}
-x=-8+4t\
+x=-8+4t
 y=5-2t
 y=x^3-3\left( {2m+1} \right)x^2+\left( {12m+5} \right)x-2
 m\in [0;10]
