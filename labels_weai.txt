@@ -34506,9 +34506,9 @@ P=a^{\tfrac{1}{5}}b^{\tfrac{1}{5}}
 h=\dfrac{a\sqrt{3}}{2}
 k=\dfrac{1}{\sqrt{3}}
 (Q)\colon x-2y-z-7=0
-=1+2t \
-=2+3t \
-=5-
+x=1+2t
+y=2+3t
+z=5-t
 V=2(a+b)c
 N(-1;1;5)
 \arcsin \left(\dfrac{4}{5}\right)
@@ -34662,8 +34662,8 @@ y=\sqrt{2x}
 N(a;b;c)
 f\left(x\right) = a
 T_1, T_2
-|z+2i| \le 2\sqrt{5}\
-|z-4i|\le 2\sqrt{2
+|z+2i| \le 2\sqrt{5}
+|z-4i|\le 2\sqrt{2}
 \min\limits_{x\in [2;4]} y=-6
 V\approx 251,\!33
 3t^2 - 2t - 7 = 0
