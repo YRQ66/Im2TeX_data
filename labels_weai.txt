@@ -36589,8 +36589,8 @@ M, M
 BD\perp SC
 f(2)=16,
 \log_2 \left(x^2+y^2\right)=1+\log_2 xy
-\log_2 (2x-4)\leq \log_2 (x+1)\
-\log_{0,5} (3x-2)\leq \log_{0,5} (2x+2
+\log_2 (2x-4) \leq \log_2 (x+1)
+\log_{0,5} (3x-2)\leq \log_{0,5} (2x+2)
 \dfrac{2099}{2}
 58{,}004
 MN
@@ -45084,9 +45084,9 @@ x\in \left(\dfrac{1}{3};1\right)
 A,\space B,\space C
 a,b \in \mathbb{N^*}
 a\sqrt3
-=t,\
-=-1+2t,\
-=
+x=t,
+y=-1+2t,
+z=1
 \overrightarrow{a} = 2 \overrightarrow{i} + 3 \overrightarrow{j} - \overrightarrow{k}
 (S)\colon (x - 1)^2+(y - 3)^2+z^2=9
 \overrightarrow {n}_4=(-2;-5;9)
@@ -45207,9 +45207,9 @@ T=16
 (\alpha): -7x+11y+z+15=0
 \Omega=\{2;4;6\}
 \overrightarrow{u}=(-4;-9;12)
-\mbox{x=1+t}\
-\mbox{y=2-t}\
-\mbox{z=1+2t}\
+\mbox{x=1+t}
+\mbox{y=2-t}
+\mbox{z=1+2t}
 2x+2y+z-17=0
 \forall n\geq 2
 N\left(0;-3;1\right)
@@ -56228,8 +56228,8 @@ N(1; -1)
 u_1 = 12
 A'E
 d \colon \begin{cases} x=-1+3t \\ y=-t \\ z=1-2t\end{cases}, t\in \mathbb{R}
-= 2 - t\
-=  - 1 + 2t\
+x = 2 - t
+y = -1 + 2t
 H\left(4;2;-2\right)
 \displaystyle\int\limits_{-2}^{2} \dfrac{x+1}{x^2-9}\mathrm{\,d}x=-\dfrac{a}{b}\ln 5
 \dfrac{a\sqrt{57}}{19}
@@ -77012,7 +77012,7 @@ E
 421
 \left.-\dfrac{x^3\ln x}{3}\right|_1^3-\dfrac{1}{3}\displaystyle \int \limits_1^3{x^2\mathrm{\,d}x}
 M(0;-1;2)
-y_{\small\mbox{cđ}}=-1
+y_{\small\mbox{c}}=-1
 \dfrac{x^2}{2}-x-\ln (x+1)+C
 \left(x^ \alpha\right)' = \dfrac{1}{\alpha} x^{\alpha -1}
 V=\pi\displaystyle\int\limits_0^4\bigg[(2+\sqrt{y})^2+(2-\sqrt{y})^2\bigg]dy
@@ -83513,7 +83513,7 @@ k = \dfrac{3\sqrt{3}}{8}
 \alpha <0<1<\beta
 \dfrac{|z|}{1+|z|^2}.
 \overrightarrow{CD}=4\overrightarrow{CN}.
-S=M+C+Đ
+S=M+C+
 \displaystyle\int\limits_{a}^{b}f(x)\mathrm{d}x =F(a)-F(b)
 P=\dfrac{2x^2-xy+2y^2}{2xy-y^2}
 [-2;0)\cup \left (\dfrac{1}{3}; 3\right ]
@@ -87183,7 +87183,7 @@ d\colon \dfrac{x-2}{3}=\dfrac{y-3}{-1}=\dfrac{z+5}{4}
 1024i
 D=[1; +\infty)
 (a+b+c)!
-y_{\tiny{\mbox{CĐ}}}=5
+y_{\tiny{\mbox{C}}}=5
 \overrightarrow {u}_2=(1;-1;0)
 G(2;1;0)
 y=2x^3-3x^2-12x+10
@@ -87779,7 +87779,7 @@ P(-2;-3;11)
 x=m^3n^2p
 \log_{\tfrac{1}{2}}(x^2-x)\ge -1
 N(1;5;3)
-y_{\small\mbox{cđ}}=5
+y_{\small\mbox{c}}=5
 y=f(x)=\ln (\mathrm{e}^x+a)
 (S)\colon x^2+y^2+z^2+2x-4y+4z-1=0
 |z|\in[0;1)
@@ -89382,9 +89382,9 @@ T=-1
 I\left(-2;1;-1\right)\phantom{\rule{0.33em}{0ex}}\mathrm{,}\phantom{\rule{0.33em}{0ex}}\phantom{\rule{0.33em}{0ex}}R=9
 -297
 \log_{\sqrt{a}} {b} = \dfrac{1}{2}\log_a b
-\mbox{x=6-3t}\
-\mbox{y=-1+2t}\
-\mbox{z=-2+4t}\
+\mbox{x=6-3t}
+\mbox{y=-1+2t}
+\mbox{z=-2+4t}
 \displaystyle\int\limits_0^5 f(x)dx=3
 \displaystyle\int\limits_1^2(x+3)^2\mathrm{\, d}x
 y=\dfrac{x+1}{2x-1}
@@ -89664,7 +89664,7 @@ z^4+5z^2+4=0
 S=14
 S=2n+(9^n-1)\left(9+\dfrac{1}{9^{n+1}}\right)
 y'=\dfrac{3}{4\sqrt[4]{x}}
-(SAB) và (ABCD)
+(SAB)v(ABCD)
 I\left(\dfrac{37}{2};-7;0\right)
 y=\ln \left(x^2-2mx+9\right)
 \left(-1;0\right)
@@ -97450,7 +97450,7 @@ BC=3
 y= \dfrac{m x - 2}{m - 2x}
 K(0;6)
 \dfrac{a(S-2a^2)}{2}
-(SAD) và (ABCD)
+(SAD)v(ABCD)
 - \dfrac{23}{10} + \dfrac{53}{5}i
 M=5,m=2
 |m| \leq 4
